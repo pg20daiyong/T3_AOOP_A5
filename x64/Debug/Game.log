@@ -1,0 +1,35 @@
+﻿  Actor.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\Actor.cpp(1,10): fatal error C1083: Cannot open include file: 'Actor.h': No such file or directory
+  ActorFactory.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\ActorFactory.cpp(1,10): fatal error C1083: Cannot open include file: 'ActorFactory.h': No such file or directory
+  ActorHandle.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\ActorHandle.cpp(3,10): fatal error C1083: Cannot open include file: 'ActorHandle.h': No such file or directory
+  Asteroid.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\Asteroid.cpp(1,10): fatal error C1083: Cannot open include file: 'Asteroid.h': No such file or directory
+  AsteroidManager.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\AsteroidManager.cpp(1,10): fatal error C1083: Cannot open include file: 'AsteroidManager.h': No such file or directory
+  Bullet.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\Bullet.cpp(1,10): fatal error C1083: Cannot open include file: 'Bullet.h': No such file or directory
+  ColliderComponent.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\ColliderComponent.cpp(1,10): fatal error C1083: Cannot open include file: 'ColliderComponent.h': No such file or directory
+  ComponentBase.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\ComponentBase.cpp(1,10): fatal error C1083: Cannot open include file: 'ComponentBase.h': No such file or directory
+  EventSystem.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\EventSystem.cpp(1,10): fatal error C1083: Cannot open include file: 'EventSystem.h': No such file or directory
+  Game.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\Game.cpp(1,10): fatal error C1083: Cannot open include file: 'Game.h': No such file or directory
+  GameUI.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\GameUI.cpp(1,10): fatal error C1083: Cannot open include file: 'GameUI.h': No such file or directory
+  InputManager.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\InputManager.cpp(1,10): fatal error C1083: Cannot open include file: 'InputManager.h': No such file or directory
+  Main.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\Main.cpp(1,10): fatal error C1083: Cannot open include file: 'Game.h': No such file or directory
+  RenderComponent.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\RenderComponent.cpp(1,10): fatal error C1083: Cannot open include file: 'RenderComponent.h': No such file or directory
+  Ship.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\Ship.cpp(1,10): fatal error C1083: Cannot open include file: 'Ship.h': No such file or directory
+  TransformComponent.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\TransformComponent.cpp(1,10): fatal error C1083: Cannot open include file: 'TransformComponent.h': No such file or directory
+  World.cpp
+E:\VFS\PG20 T3 Advanced OOP in C++\Assignment\PG20DaiyongKim_AOOP_a5\Source\World.cpp(1,10): fatal error C1083: Cannot open include file: 'World.h': No such file or directory
+  Generating Code...
